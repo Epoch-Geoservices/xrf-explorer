@@ -1,0 +1,7 @@
+numpy
+pandas
+panel
+folium
+scikit-learn
+bokeh
+openpyxl
